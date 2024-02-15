@@ -1,1 +1,8 @@
-# Text_Summarization_using_BERT-_GPT2-XLNET
+# Text_Summarization
+
+  - BERT
+  
+  - GPT2
+  
+  - XLNET
+    
